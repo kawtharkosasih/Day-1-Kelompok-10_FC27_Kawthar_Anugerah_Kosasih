@@ -20,3 +20,7 @@ Repository ini dibuat untuk mendokumentasikan materi workshop, mencatat pengetah
 
 ### 3. Pendapat Pribadi
 *Akan diisi dengan pendapat dan pengalaman pribadi mengenai Day 1 Proyek Workshop.*
+
+Dokumentasi lengkap dapat dibaca melalui file berikut:
+
+- [Dokumentasi Day 1 Proyek Workshop](Dokumentasi/dokumentasi-day-1.md)
